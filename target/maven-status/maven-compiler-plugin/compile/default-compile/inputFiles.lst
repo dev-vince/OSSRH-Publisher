@@ -1,4 +1,0 @@
-/workspaces/OSSRH-Publisher/src/main/java/dev/vince/publisher/mojo/PublisherMojo.java
-/workspaces/OSSRH-Publisher/src/main/java/dev/vince/publisher/executable/api/AbstractMojoExecutable.java
-/workspaces/OSSRH-Publisher/src/main/java/dev/vince/publisher/executable/impl/MavenSourceExecutable.java
-/workspaces/OSSRH-Publisher/src/main/java/dev/vince/publisher/executable/impl/MavenJavadocExecutable.java

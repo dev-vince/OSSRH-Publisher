@@ -1,1 +1,0 @@
-/usr/local/sdkman/candidates/java/current/bin/javadoc @options @packages
